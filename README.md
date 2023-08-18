@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofia Arias</h1>
-<h3 align="center"> I am Sofia Arias, a passionate student of new technologies and programming. I’m currently studying engeneer in Robotics and Digital Systems al Tec de monterrey, Guadalajara .</h3>
+<h3 align="center"> I am Sofia Arias, a passionate student of new technologies and programming. I’m currently studying engeneer in Robotics and Digital Systems at Tec de monterrey, Guadalajara .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiaariasv2002" alt="sofiaariasv2002" /> </p>
 
