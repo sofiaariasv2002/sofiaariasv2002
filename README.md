@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiaariasv2002" alt="sofiaariasv2002" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiaariasv2002&show_icons=true" alt="sofiaariasv2002" /></p>
+![Sofia's github stats](https://github-readme-stats.vercel.app/api?username=sofiaariasv2002&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiaariasv2002&theme=tokyonight" alt="mystreak"/>
+![Sofia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaariasv2002&theme=tokyonight&layout=compact)
 
-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaariasv2002&layout=compact&hide=html" alt="sofiaariasv2002" /></p>
+
 ----
 Credit: [Sofia Arias](https://github.com/sofiaariasv2002)
 
